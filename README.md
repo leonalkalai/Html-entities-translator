@@ -1,6 +1,6 @@
 # Html-entities-translator
 Html entities translator
 
-![github](https://imgur.com/UhIMN1k)
+![github](https://i.imgur.com/UhIMN1k.gif)
 
 
